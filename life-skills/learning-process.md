@@ -4,12 +4,12 @@
 
 The Feynman Technique is a straightforward method to learn something deeply by explaining it in your own simple words, helping you understand the topic better and identify where you might be missing information.
 
-## 2. In this video, what was the most interesting story or idea for you?
+## 2. In this video, what was the most interesting story or idea for you.
 
 **Most Interesting Story or Idea:**  
 One of the standout ideas from Barbara Oakley’s TED talk is the power of breaking tasks into smaller, more manageable pieces. This makes learning less overwhelming and more doable.
 
-## 3. What are active and diffused modes of thinking?
+## 3. What are active and diffused modes of thinking.
 
 - **Active Mode:** This is when you’re fully engaged in solving problems and working on details.
 - **Diffused Mode:** This is a more relaxed and creative way of thinking that generates new ideas.
@@ -23,7 +23,7 @@ One of the standout ideas from Barbara Oakley’s TED talk is the power of break
 3. **Eliminate Distractions**
 4. **Practice**
 
-## 5. What are some of the actions you can take going forward to improve your learning process?
+## 5. What are some of the actions you can take going forward to improve your learning process.
 
 **Actions I Will take to improve my learning:**
 
