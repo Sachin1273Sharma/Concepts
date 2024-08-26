@@ -32,3 +32,19 @@ Welcome to the Concepts repository! This repository contains resources and insig
    - Understanding the B = MAP model
    - The importance of celebrating small wins
    - **File Name:** `tiny_habits.md`
+
+5. **Paper on Listening and Active Communication**
+   - Steps/Strategies to Practice Active Listening
+   - Key Points of Reflective Listening (Fisher's Model)
+   - Obstacles in Listening
+   - How to Make Communication Assertive
+   - **File Name:** `listening_and_assertive_communication.md`
+
+6. **Paper on Energy Management**
+   - Activities for Relaxation (Calm Quadrant)
+   - Entering the Stress Quadrant
+   - Ideas for Better Sleep
+   - Brain Changing Benefits of Exercise
+   - Steps to Exercise More
+   - **File Name:** `energy-management.md`
+
